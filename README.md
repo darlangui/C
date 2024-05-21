@@ -1,2 +1,2 @@
-# Estrutura-de-Dados-e-Programação
+# Estruturas de Dados em C e C++
 Learning Activities/Projects in C and C++
